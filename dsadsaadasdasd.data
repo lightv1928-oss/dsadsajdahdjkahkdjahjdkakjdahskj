@@ -1,6 +1,17 @@
 {
   "version": 1,
-  "last_updated": "2026-09-26 13:58:41",
+  "last_updated": "2026-09-26 13:59:40",
   "announcement": "⚡ Vendetta VIP Spammer Aktif",
-  "keys": {}
+  "keys": {
+    "ADMIN": {
+      "user": "ADMIN",
+      "tier": "Lifetime Admin",
+      "created_at": "2026-09-26 13:59:38",
+      "expires_at": "2026-10-26 13:59:38",
+      "active": true,
+      "max_hwid": 1,
+      "hwids": [],
+      "note": "ADMIN"
+    }
+  }
 }
