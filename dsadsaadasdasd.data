@@ -1,27 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-26 13:56:00",
-  "announcement": "⚡ Vendetta Pro v4.0 VIP Cloud License Active",
-  "keys": {
-    "RISE-ADMIN-NEXORA-2026": {
-      "user": "Nexora",
-      "tier": "Lifetime Admin",
-      "created_at": "2026-09-26 13:56:00",
-      "expires_at": "unlimited",
-      "active": true,
-      "max_hwid": 3,
-      "hwids": [],
-      "note": "Ana Kurucu Yonetici Lisansi"
-    },
-    "RISE-VIP-DEMO-30GUN": {
-      "user": "Deneme Musteri",
-      "tier": "VIP Elite",
-      "created_at": "2026-09-26 13:56:00",
-      "expires_at": "2026-10-26 13:56:00",
-      "active": true,
-      "max_hwid": 1,
-      "hwids": [],
-      "note": "30 Gunluk Test Anahtari"
-    }
-  }
+  "last_updated": "2026-09-26 13:58:41",
+  "announcement": "⚡ Vendetta VIP Spammer Aktif",
+  "keys": {}
 }
