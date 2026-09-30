@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-30 15:58:42",
+  "last_updated": "2026-09-30 16:03:29",
   "announcement": "⚡ Vendetta VIP Spammer Aktif",
   "keys": {
     "MISTRAL-ADMIN": {
@@ -8,6 +8,16 @@
       "tier": "Lifetime Admin",
       "created_at": "2026-09-30 15:58:16",
       "expires_at": "unlimited",
+      "active": true,
+      "max_hwid": 1,
+      "hwids": [],
+      "note": ""
+    },
+    "ADMIN": {
+      "user": "admin",
+      "tier": "Özel Müşteri",
+      "created_at": "2026-09-30 16:03:27",
+      "expires_at": "2026-10-30 16:03:27",
       "active": true,
       "max_hwid": 1,
       "hwids": [],
