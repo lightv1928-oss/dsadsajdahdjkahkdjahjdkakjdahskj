@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2026-09-29 21:26:11",
+  "last_updated": "2026-09-30 15:58:42",
   "announcement": "⚡ Vendetta VIP Spammer Aktif",
   "keys": {
-    "RISE-8V8E-MXE5-PFZN": {
-      "user": "mistraldeveloper",
+    "MISTRAL-ADMIN": {
+      "user": "admin",
       "tier": "Lifetime Admin",
-      "created_at": "2026-09-29 21:26:08",
-      "expires_at": "2026-09-29 22:26:08",
+      "created_at": "2026-09-30 15:58:16",
+      "expires_at": "unlimited",
       "active": true,
       "max_hwid": 1,
       "hwids": [],
